@@ -1,4 +1,0 @@
-This file is being generated from input&otput.py file.
-Fish
-Meat
-Chicken
