@@ -1,9 +1,11 @@
 # python-tutorial
+![Pic, the python logo](/img/python.png)
+
 
 This is a beginner friendly repository. Code Examples and tips to learn python better.
 
-> Course Outline 
->
+> # Course Outline 
+> **Beginner Topics**
 >> - Intro
 >> - Variables
 >> - Numbers
@@ -20,3 +22,12 @@ This is a beginner friendly repository. Code Examples and tips to learn python b
 >> - Functions
 >> - Arrays
 >> - PIP
+
+
+> **Intermediate Topics** 
+>> Modules
+>> Other courses coming soon.. 
+
+
+
+
