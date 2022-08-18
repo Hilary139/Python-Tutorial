@@ -6,7 +6,8 @@
 #? Tuple items are ordered, unchangeable, and allow duplicate values.
 
 #* Simple explanation of a tuple 
-from ast import While
+
+from audioop import reverse
 
 
 tuple_num = (192, 12.8)
@@ -14,12 +15,36 @@ print(tuple_num)
 tuple_string = ("orange", "apple")
 print(tuple_string)
 
+#*To create a tuple with a single element, you have to include a final comma:
+t1 = ('a',) #? This is a tuple.. Becaus of the final comma at the end..
+t2 = ('b') #! This outputs to be a single value not a tuple. Because it dosen't have a final comma...
+
+#* Also You can declare tuples without the parentheses.
+t1 = 'c', #? This is also a tuple because of the final comma at the end.
+
 #* tuple length using the len()
 tuple_length = ("dog", "cat", "monkey")
 print(len(tuple_length))
 
 #* Getting the type of datatype it is 
 print(type(tuple_length))
+
+#* Finding the max and min values in a tuple.
+tuple_length = ("dog", "cat", "monkey")
+max_tuple = max(tuple_length)
+min_tuple = min(tuple_length)
+print(max_tuple)
+print(min_tuple)
+
+#* reverse the order of the tuple
+tuple_reverse = ("c++", "javascript", "java")
+tuple_reverse_set = tuple_reverse[::-1]
+print(tuple_reverse_set)
+
+#* Another way of reverse
+tuple_reverse_2 = ("cobol", "fotran", "pascal")
+reverse_set = tuple(reversed(tuple_reverse_2))
+print(reverse_set)
 
 #* accessing tuples 
 tuple_access = (2, 5, 7, 8)
