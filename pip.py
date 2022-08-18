@@ -21,7 +21,7 @@ import camelcase
 
 c = camelcase.CamelCase()
 
-txt = "hello world"
+txt = "hello world"i
 
 print(c.hump(txt))
 
