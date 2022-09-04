@@ -30,13 +30,20 @@ This is a beginner friendly repository. Code Examples and tips to learn python b
 >> - While Loops
 >> - Input & Output
 >> - Functions
+>> - Args & Kwargs
 >> - Arrays
 >> - PIP
+
 
 
 > **Intermediate Topics** 
 >> - Modules
 >> - Other courses coming soon.. 
+>> - Functional Programming Methods (map(), reduce(), filter(), lambda())
+>> - Object Oriented programming methods (Classes, Inheritance, Polymorphism, Encapsulation, Abstraction)
+
+
+
 
 
 

@@ -3,6 +3,8 @@
 
 #? How to create a module
 #* To create a module just save the code you want in a file with the file extension .py:
-def greeting(name):
-  print("Hello, " + name)  #todo: create a file eg: 'myModule.py'
+
+from myModule import greeting #* This module was created from a file callled "myModule.py"
+
+print(greeting())  #* Calling the greet function from the module.
 
