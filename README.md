@@ -41,6 +41,8 @@ This is a beginner friendly repository. Code Examples and tips to learn python b
 >> - Other courses coming soon.. 
 >> - Functional Programming Methods (map(), reduce(), filter(), lambda())
 >> - Object Oriented programming methods (Classes, Inheritance, Polymorphism, Encapsulation, Abstraction)
+>> - Decorators
+>> - Python Modules (Numpy)
 
 
 
