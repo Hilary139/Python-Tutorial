@@ -20,7 +20,7 @@ class SoftwareDeveloper():
     def set_salary(self, base_value):
         self._salary = self._calculate_salary(base_value)
 
-
+# Abstraction
     def _calculate_salary(self, base_value):
         if self._num_bugs_solved < 10:
             return base_value
