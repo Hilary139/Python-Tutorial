@@ -1,0 +1,5 @@
+	Countries	Capital	Country code
+0	Canada	Ottawa	+1
+1	United States	Washington DC	+1
+2	United Kingdom	England	+44
+3	Nigeria	Abuja	+234
